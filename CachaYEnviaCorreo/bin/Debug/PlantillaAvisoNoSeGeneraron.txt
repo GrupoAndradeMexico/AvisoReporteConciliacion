@@ -1,0 +1,7 @@
+Siendo las [hora] horas del día [fecha], no se han encontrado archivos del reporte:  CierreDia_Conciliacion_Modulos vs contabilidad_[fechahoy].
+
+ Agencias sin reporte:
+
+[agenciassinreporte]
+
+Favor de verificar a la brevedad.

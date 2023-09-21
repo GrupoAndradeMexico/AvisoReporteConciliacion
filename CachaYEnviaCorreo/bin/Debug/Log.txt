@@ -1,0 +1,302 @@
+18/07/2013 12:08:45	Inicio de operaciones, desde: Envia_Load
+18/07/2013 12:08:48	Se ha generado un archivo zip con archivos txt, desde: Envia_Load
+18/07/2013 12:08:48	Se mueve el archivo a: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug para su envio., desde: Envia_Load
+18/07/2013 12:08:48	Se ha detectado la presencia del archivo:C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug\15_20130718_120848.zip esperaremos el llenado: 1 minutos, desde: Created
+18/07/2013 12:09:48	El tiempo de espera por el llenado a llegado a su fin se procede a enviar, desde: Created
+18/07/2013 12:09:48	Se ha detectado la presencia del archivo: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug\15_20130718_120848.zip se procede a enviar., desde: Created
+18/07/2013 12:11:56	Archivo enviado: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug\15_20130718_120848.zip Tiempo Transcurrido:23 s, desde: EnviaArchivos
+18/07/2013 12:12:07	Se han transferido 1 archivos ?Exitosamente!, desde: fileSystemWatcher1_Created
+09/08/2013 17:14:52	, desde:  
+09/08/2013 17:14:52	Inicio de operaciones, desde: Envia_Load
+09/08/2013 17:16:59	, desde:  
+09/08/2013 17:16:59	Inicio de operaciones, desde: Envia_Load
+09/08/2013 17:20:20	, desde:  
+09/08/2013 17:20:20	Inicio de operaciones, desde: Envia_Load
+09/08/2013 17:27:38	Se ha generado un archivo zip con archivos txt, desde: Envia_Load
+09/08/2013 17:27:42	Se mueve el archivoC:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug\XZipear\07_20130809_172027.zip  a: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug para su envio., desde: Envia_Load
+09/08/2013 17:28:35	Se ha generado un archivo zip con archivos txt, desde: Envia_Load
+09/08/2013 17:28:42	Se mueve el archivoC:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug\XZipear\09_20130809_172205.zip  a: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug para su envio., desde: Envia_Load
+09/08/2013 17:29:44	Se ha generado un archivo zip con archivos txt, desde: Envia_Load
+09/08/2013 17:29:44	Se mueve el archivoC:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug\XZipear\19_20130809_172255.zip  a: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug para su envio., desde: Envia_Load
+09/08/2013 17:30:14	Se ha generado un archivo zip con archivos txt, desde: Envia_Load
+09/08/2013 17:30:14	Se mueve el archivoC:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug\XZipear\22_20130809_172304.zip  a: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug para su envio., desde: Envia_Load
+09/08/2013 17:30:44	Se ha generado un archivo zip con archivos txt, desde: Envia_Load
+09/08/2013 17:30:44	Se mueve el archivoC:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug\XZipear\23_20130809_172322.zip  a: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug para su envio., desde: Envia_Load
+09/08/2013 17:31:14	Se ha detectado la presencia del archivo:C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug\07_20130809_172027.zip esperaremos el llenado: 1 minutos, desde: Created
+09/08/2013 17:35:36	El tiempo de espera por el llenado a llegado a su fin se procede a enviar, desde: Created
+09/08/2013 17:35:53	Se ha detectado la presencia del archivo: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug\07_20130809_172027.zip se procede a enviar., desde: Created
+09/08/2013 17:40:02	, desde:  
+09/08/2013 17:40:02	Inicio de operaciones, desde: Envia_Load
+09/08/2013 17:40:13	La carpeta a zipear esta vacia., desde: Envia_Load
+09/08/2013 17:40:37	Se ha detectado la presencia del archivo:C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug\22_20130809_172304.zip esperaremos el llenado: 1 minutos, desde: Created
+09/08/2013 17:41:44	El tiempo de espera por el llenado a llegado a su fin se procede a enviar, desde: Created
+09/08/2013 17:41:44	Se ha detectado la presencia del archivo: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug\22_20130809_172304.zip se procede a enviar., desde: Created
+09/08/2013 17:44:17	, desde:  
+09/08/2013 17:44:17	Inicio de operaciones, desde: Envia_Load
+09/08/2013 17:44:26	La carpeta a zipear esta vacia., desde: Envia_Load
+09/08/2013 17:44:44	Se ha detectado la presencia del archivo:C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug\19_20130809_172255.zip esperaremos el llenado: 1 minutos, desde: Created
+09/08/2013 17:45:47	El tiempo de espera por el llenado a llegado a su fin se procede a enviar, desde: Created
+09/08/2013 17:45:47	Se ha detectado la presencia del archivo: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug\19_20130809_172255.zip se procede a enviar., desde: Created
+09/08/2013 17:47:35	Archivo enviado: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug\19_20130809_172255.zip Tiempo Transcurrido:28 s, desde: EnviaArchivo
+09/08/2013 17:47:45	Se han transferido 1 archivos ?Exitosamente!, desde: fileSystemWatcher1_Created
+09/08/2013 17:47:54	Se ha detectado la presencia del archivo:C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug\22_20130809_172304.zip esperaremos el llenado: 1 minutos, desde: Created
+09/08/2013 17:49:06	El tiempo de espera por el llenado a llegado a su fin se procede a enviar, desde: Created
+09/08/2013 17:49:08	Se ha detectado la presencia del archivo: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug\22_20130809_172304.zip se procede a enviar., desde: Created
+09/08/2013 17:49:56	Archivo enviado: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug\22_20130809_172304.zip Tiempo Transcurrido:16 s, desde: EnviaArchivo
+09/08/2013 17:49:56	Se han transferido 1 archivos ?Exitosamente!, desde: fileSystemWatcher1_Created
+09/08/2013 17:49:56	Se ha detectado la presencia del archivo:C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug\23_20130809_172322.zip esperaremos el llenado: 1 minutos, desde: Created
+12/08/2013 11:38:56	, desde:  
+12/08/2013 11:38:56	Inicio de operaciones, desde: Envia_Load
+12/08/2013 11:39:11	La carpeta a zipear esta vacia., desde: Envia_Load
+12/08/2013 11:53:54	, desde:  
+12/08/2013 11:53:54	Inicio de operaciones, desde: Envia_Load
+12/08/2013 11:54:01	La carpeta a zipear esta vacia., desde: Envia_Load
+12/08/2013 11:57:14	, desde:  
+12/08/2013 11:57:14	Inicio de operaciones, desde: Envia_Load
+12/08/2013 11:57:53	Se ha generado un archivo zip con archivos txt, desde: Envia_Load
+12/08/2013 11:57:53	Se mueve el archivoC:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug\XZipear\07_20130812_115720.zip  a: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug para su envio., desde: Envia_Load
+12/08/2013 11:57:53	Se ha generado un archivo zip con archivos txt, desde: Envia_Load
+12/08/2013 11:57:53	Se mueve el archivoC:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug\XZipear\09_20130812_115728.zip  a: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug para su envio., desde: Envia_Load
+12/08/2013 11:57:53	Se ha generado un archivo zip con archivos txt, desde: Envia_Load
+12/08/2013 11:57:53	Se mueve el archivoC:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug\XZipear\19_20130812_115729.zip  a: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug para su envio., desde: Envia_Load
+12/08/2013 11:57:53	Se ha generado un archivo zip con archivos txt, desde: Envia_Load
+12/08/2013 11:57:53	Se mueve el archivoC:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug\XZipear\22_20130812_115730.zip  a: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug para su envio., desde: Envia_Load
+12/08/2013 11:57:53	Se ha generado un archivo zip con archivos txt, desde: Envia_Load
+12/08/2013 11:57:53	Se mueve el archivoC:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug\XZipear\23_20130812_115730.zip  a: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug para su envio., desde: Envia_Load
+12/08/2013 11:57:53	Se ha detectado la presencia del archivo:C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug\07_20130812_115720.zip esperaremos el llenado: 1 minutos, desde: Created
+13/08/2013 11:03:40	, desde:  
+13/08/2013 11:03:40	Inicio de operaciones, desde: Envia_Load
+13/08/2013 11:03:50	La carpeta a zipear esta vacia., desde: Envia_Load
+13/08/2013 11:04:41	Se ha detectado la presencia del archivo:C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug\14_20130813_011001.zip esperaremos el llenado: 1 minutos, desde: Created
+13/08/2013 11:05:46	El tiempo de espera por el llenado a llegado a su fin se procede a enviar, desde: Created
+13/08/2013 11:05:46	Se ha detectado la presencia del archivo: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug\14_20130813_011001.zip se procede a enviar., desde: Created
+13/08/2013 11:09:51	Archivo enviado: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug\14_20130813_011001.zip Tiempo Transcurrido:1 m 41 s, desde: EnviaArchivo
+13/08/2013 11:10:02	Se han transferido 1 archivos ?Exitosamente!, desde: fileSystemWatcher1_Created
+13/08/2013 11:10:17	Se ha detectado la presencia del archivo:C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug\15_20130813_011001.zip esperaremos el llenado: 1 minutos, desde: Created
+13/08/2013 11:11:21	El tiempo de espera por el llenado a llegado a su fin se procede a enviar, desde: Created
+13/08/2013 11:11:21	Se ha detectado la presencia del archivo: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug\15_20130813_011001.zip se procede a enviar., desde: Created
+13/08/2013 11:11:52	Archivo enviado: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug\15_20130813_011001.zip Tiempo Transcurrido:5 s, desde: EnviaArchivo
+13/08/2013 11:11:52	Se han transferido 1 archivos ?Exitosamente!, desde: fileSystemWatcher1_Created
+13/08/2013 11:11:52	Se ha detectado la presencia del archivo:C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug\21_20130813_011001.zip esperaremos el llenado: 1 minutos, desde: Created
+13/08/2013 11:12:55	El tiempo de espera por el llenado a llegado a su fin se procede a enviar, desde: Created
+13/08/2013 11:12:55	Se ha detectado la presencia del archivo: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug\21_20130813_011001.zip se procede a enviar., desde: Created
+13/08/2013 11:13:29	Archivo enviado: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug\21_20130813_011001.zip Tiempo Transcurrido:4 s, desde: EnviaArchivo
+13/08/2013 11:13:29	Se han transferido 1 archivos ?Exitosamente!, desde: fileSystemWatcher1_Created
+ 
+14/08/2013 11:48:06	Inicio de operaciones, desde: Envia_Load
+ 
+14/08/2013 11:52:57	Inicio de operaciones, desde: Envia_Load
+14/08/2013 11:53:25	Hora inicio 11:52:47 no es la ejecucion programada entre 01:00:00 y 01:30:00, desde: Envia_Load
+ 
+11/10/2013 10:39:13	Inicio de operaciones, desde: Envia_Load
+ 
+11/10/2013 10:42:25	Inicio de operaciones, desde: Envia_Load
+ 
+11/11/2013 18:34:13	Inicio de operaciones, desde: Envia_Load
+ 
+12/11/2013 11:12:20	Inicio de operaciones, desde: Envia_Load
+12/11/2013 11:14:13	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 11:15:07	Intento de envio, listado de agencias que no tienen archivo: La agencia: AgenciaSin No se gener? el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf,, desde: Envia_Load
+12/11/2013 11:16:00	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 11:21:45	Se han enviado 0 Exitosamente, desde: Envia_Load
+12/11/2013 11:21:46	El aplicactivo se cierra al enviar archivos, desde: Envia_Load
+ 
+12/11/2013 11:30:44	Inicio de operaciones, desde: Envia_Load
+12/11/2013 11:30:44	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 11:30:44	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SAT No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 11:30:44	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\AZC No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 11:30:44	Intento de envio, listado de agencias que no tienen archivo: La agencia: AgenciaSin No se gener? el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf,La agencia: GMCSatelite No se gener? el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf,La agencia: CHEVROLET No se gener? el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf,, desde: Envia_Load
+12/11/2013 11:30:44	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 11:30:44	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SAT No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 11:30:44	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\AZC No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+ 
+12/11/2013 11:40:02	Inicio de operaciones, desde: Envia_Load
+12/11/2013 11:40:19	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 11:40:25	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SAT No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 11:40:30	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\AZC No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 11:40:51	Intento de envio, listado de agencias que no tienen archivo: La agencia: AgenciaSin No se gener? el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf,La agencia: GMCSatelite No se gener? el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf,La agencia: CHEVROLET No se gener? el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf,, desde: Envia_Load
+12/11/2013 11:41:19	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 11:41:24	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SAT No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 11:41:29	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\AZC No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 11:42:38	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 11:42:38	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SAT No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 11:42:38	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\AZC No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+ 
+12/11/2013 12:05:59	Inicio de operaciones, desde: Envia_Load
+12/11/2013 12:06:20	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 12:06:20	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SAT No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 12:06:20	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\AZC No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 12:06:27	Intento de envio, listado de agencias que no tienen archivo: La agencia: AgenciaSin No se gener? el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf,La agencia: GMCSatelite No se gener? el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf,La agencia: CHEVROLET No se gener? el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf,, desde: Envia_Load
+12/11/2013 12:06:56	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 12:06:56	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SAT No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 12:06:56	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\AZC No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 12:07:56	Se han enviado 0 Exitosamente, desde: Envia_Load
+12/11/2013 12:07:56	El aplicactivo se cierra al enviar archivos, desde: Envia_Load
+ 
+12/11/2013 12:23:24	Inicio de operaciones, desde: Envia_Load
+12/11/2013 12:23:24	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 12:23:24	Intento de envio, listado de agencias que no tienen archivo: Para : AgenciaSin No se gener? el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf,, desde: Envia_Load
+12/11/2013 12:23:24	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+ 
+12/11/2013 12:30:46	Inicio de operaciones, desde: Envia_Load
+12/11/2013 12:30:46	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 12:30:46	Intento de envio, listado de agencias que no tienen archivo: Para : AgenciaSin No se gener? el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf,, desde: Envia_Load
+12/11/2013 12:30:46	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 12:30:53	Se han enviado 1 Exitosamente, desde: Envia_Load
+12/11/2013 12:30:53	El aplicactivo se cierra al enviar archivos, desde: Envia_Load
+ 
+12/11/2013 12:57:20	Inicio de operaciones, desde: Envia_Load
+12/11/2013 12:57:20	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 12:57:20	Intento de envio, listado de agencias que no tienen archivo: Para : AgenciaSin No se gener? el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf,, desde: Envia_Load
+12/11/2013 12:57:20	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 12:57:27	Se han enviado 1 Exitosamente, desde: Envia_Load
+12/11/2013 12:57:27	El aplicactivo se cierra al enviar archivos, desde: Envia_Load
+ 
+12/11/2013 13:07:37	Inicio de operaciones, desde: Envia_Load
+12/11/2013 13:07:37	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 13:07:37	Intento de envio, listado de agencias que no tienen archivo: Para : AgenciaSin No se gener? el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf,, desde: Envia_Load
+12/11/2013 13:07:37	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 13:07:44	Se han enviado 1 Exitosamente, desde: Envia_Load
+12/11/2013 13:07:44	El aplicactivo se cierra al enviar archivos, desde: Envia_Load
+ 
+12/11/2013 13:21:19	Inicio de operaciones, desde: Envia_Load
+12/11/2013 13:21:19	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 13:21:19	Intento de envio, listado de agencias que no tienen archivo: Para : AgenciaSin No se gener? el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf,, desde: Envia_Load
+12/11/2013 13:21:19	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 13:21:25	Se han enviado 1 Exitosamente, desde: Envia_Load
+12/11/2013 13:21:25	El aplicactivo se cierra al enviar archivos, desde: Envia_Load
+ 
+12/11/2013 13:24:16	Inicio de operaciones, desde: Envia_Load
+12/11/2013 13:24:16	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 13:24:16	Intento de envio, listado de agencias que no tienen archivo: Para : AgenciaSin No se gener? el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf,, desde: Envia_Load
+12/11/2013 13:24:16	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 13:24:24	Se han enviado 1 Exitosamente, desde: Envia_Load
+12/11/2013 13:24:24	El aplicactivo se cierra al enviar archivos, desde: Envia_Load
+ 
+12/11/2013 13:26:17	Inicio de operaciones, desde: Envia_Load
+12/11/2013 13:26:17	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 13:26:17	Intento de envio, listado de agencias que no tienen archivo: Para : AgenciaSin No se gener? el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf,, desde: Envia_Load
+12/11/2013 13:26:17	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 13:26:27	Se han enviado 1 Exitosamente, desde: Envia_Load
+12/11/2013 13:26:27	El aplicactivo se cierra al enviar archivos, desde: Envia_Load
+ 
+12/11/2013 13:29:02	Inicio de operaciones, desde: Envia_Load
+12/11/2013 13:29:02	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 13:29:02	Intento de envio, listado de agencias que no tienen archivo: Para : AgenciaSin No se gener? el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf,, desde: Envia_Load
+12/11/2013 13:29:02	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 13:29:07	Se han enviado 1 Exitosamente, desde: Envia_Load
+12/11/2013 13:29:07	El aplicactivo se cierra al enviar archivos, desde: Envia_Load
+ 
+12/11/2013 13:32:11	Inicio de operaciones, desde: Envia_Load
+12/11/2013 13:32:11	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 13:32:11	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SAT No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 13:32:11	Intento de envio, listado de agencias que no tienen archivo: Para : AgenciaSin No se gener? el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf,Para : GMCSatelite No se gener? el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf,, desde: Envia_Load
+12/11/2013 13:32:11	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 13:32:11	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SAT No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 13:32:15	Se han enviado 1 Exitosamente, desde: Envia_Load
+12/11/2013 13:32:15	El aplicactivo se cierra al enviar archivos, desde: Envia_Load
+ 
+12/11/2013 16:38:47	Inicio de operaciones, desde: Envia_Load
+12/11/2013 16:38:47	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 16:38:47	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SAT No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 16:38:47	Intento de envio, listado de agencias que no tienen archivo: Para : AgenciaSin No se gener? el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf,Para : GMCSatelite No se gener? el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf,, desde: Envia_Load
+12/11/2013 16:38:47	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 16:38:47	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SAT No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_12112013*.pdf, desde: ValidaLaYaExistencia
+12/11/2013 16:38:51	Se han enviado 1 Exitosamente, desde: Envia_Load
+12/11/2013 16:38:51	El aplicactivo se cierra al enviar archivos, desde: Envia_Load
+ 
+12/11/2013 16:42:40	Inicio de operaciones, desde: Envia_Load
+12/11/2013 16:42:40	Intento de envio, listado de agencias que no tienen archivo:, desde: Envia_Load
+12/11/2013 16:42:41	Error al enviar los archivos. 
+El archivo 'C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug\XZipear\CierreDia_Conciliacion_Modulos vs contabilidad_12112013021026.pdf' ya existe., desde: EnviaArchivos
+12/11/2013 16:42:41	Se han enviado 0 Exitosamente, desde: Envia_Load
+12/11/2013 16:42:41	El aplicactivo se cierra al enviar archivos, desde: Envia_Load
+ 
+12/11/2013 16:45:40	Inicio de operaciones, desde: Envia_Load
+12/11/2013 16:45:40	Intento de envio, listado de agencias que no tienen archivo:, desde: Envia_Load
+12/11/2013 16:45:40	Error al enviar los archivos. 
+El archivo 'C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug\XZipear\CierreDia_Conciliacion_Modulos vs contabilidad_12112013021026.pdf' ya existe., desde: EnviaArchivos
+12/11/2013 16:45:40	Se han enviado 0 Exitosamente, desde: Envia_Load
+12/11/2013 16:45:40	El aplicactivo se cierra al enviar archivos, desde: Envia_Load
+ 
+12/11/2013 16:50:41	Inicio de operaciones, desde: Envia_Load
+12/11/2013 16:50:41	Intento de envio, listado de agencias que no tienen archivo:, desde: Envia_Load
+12/11/2013 16:50:41	Error al enviar los archivos. 
+El archivo 'C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug\XZipear\CierreDia_Conciliacion_Modulos vs contabilidad_12112013021026.pdf' ya existe., desde: EnviaArchivos
+12/11/2013 16:50:41	Se han enviado 0 Exitosamente, desde: Envia_Load
+12/11/2013 16:50:41	El aplicactivo se cierra al enviar archivos, desde: Envia_Load
+ 
+12/11/2013 16:52:02	Inicio de operaciones, desde: Envia_Load
+12/11/2013 16:52:07	Intento de envio, listado de agencias que no tienen archivo:, desde: Envia_Load
+12/11/2013 16:53:27	Error al enviar los archivos. 
+El archivo 'C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnvia\bin\Debug\XZipear\CierreDia_Conciliacion_Modulos vs contabilidad_12112013021026.pdf' ya existe., desde: EnviaArchivos
+ 
+12/11/2013 16:54:42	Inicio de operaciones, desde: Envia_Load
+12/11/2013 16:54:42	Intento de envio, listado de agencias que no tienen archivo:, desde: Envia_Load
+12/11/2013 16:54:46	Se han enviado 1 Exitosamente, desde: Envia_Load
+12/11/2013 16:54:46	El aplicactivo se cierra al enviar archivos, desde: Envia_Load
+ 
+14/11/2013 11:51:03	Inicio de operaciones, desde: Envia_Load
+14/11/2013 11:52:34	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_13112013*.pdf, desde: ValidaLaYaExistencia
+14/11/2013 11:53:06	Intento de envio, listado de agencias que no tienen archivo: Para : AgenciaSin No se gener? el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_13112013*.pdf,, desde: Envia_Load
+ 
+14/11/2013 12:09:46	Inicio de operaciones, desde: Envia_Load
+14/11/2013 12:09:52	Intento de envio, listado de agencias que no tienen archivo:, desde: Envia_Load
+14/11/2013 12:10:20	Se han enviado 1 Exitosamente, desde: Envia_Load
+14/11/2013 12:10:21	El aplicactivo se cierra al enviar archivos, desde: Envia_Load
+ 
+14/11/2013 12:12:33	Inicio de operaciones, desde: Envia_Load
+14/11/2013 12:12:33	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_13112013*.pdf, desde: ValidaLaYaExistencia
+14/11/2013 12:12:33	Intento de envio, listado de agencias que no tienen archivo: Para : AgenciaSin No se gener? el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_13112013*.pdf,, desde: Envia_Load
+14/11/2013 12:12:33	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_13112013*.pdf, desde: EnviaArchivos
+14/11/2013 12:12:57	Se han enviado 2 Exitosamente, desde: Envia_Load
+14/11/2013 12:12:57	El aplicactivo se cierra al enviar archivos, desde: Envia_Load
+ 
+14/11/2013 12:44:12	Inicio de operaciones, desde: Envia_Load
+14/11/2013 12:44:12	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_13112013*.pdf, desde: ValidaLaYaExistencia
+14/11/2013 12:44:12	Intento de envio, listado de agencias que no tienen archivo: Para : AgenciaSin No se gener? el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_13112013*.pdf,, desde: Envia_Load
+14/11/2013 12:44:12	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_13112013*.pdf, desde: EnviaArchivos
+ 
+14/11/2013 12:59:25	Inicio de operaciones, desde: Envia_Load
+14/11/2013 12:59:25	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_13112013*.pdf, desde: ValidaLaYaExistencia
+14/11/2013 12:59:25	Intento de envio, listado de agencias que no tienen archivo: Para : AgenciaSin No se gener? el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_13112013*.pdf,, desde: Envia_Load
+ 
+14/11/2013 13:27:39	Inicio de operaciones, desde: Envia_Load
+14/11/2013 13:27:39	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_13112013*.pdf, desde: ValidaLaYaExistencia
+14/11/2013 13:27:39	Intento de envio, listado de agencias que no tienen archivo: Para : AgenciaSin No se gener? el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_13112013*.pdf,, desde: Envia_Load
+ 
+14/11/2013 13:50:24	Inicio de operaciones, desde: Envia_Load
+14/11/2013 13:50:24	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_13112013*.pdf, desde: ValidaLaYaExistencia
+14/11/2013 13:50:24	Intento de envio, listado de agencias que no tienen archivo: Para : AgenciaSin No se gener? el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_13112013*.pdf,, desde: Envia_Load
+ 
+14/11/2013 16:19:18	Inicio de operaciones, desde: Envia_Load
+14/11/2013 16:19:22	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_13112013*.pdf, desde: ValidaLaYaExistencia
+14/11/2013 16:19:22	Intento de envio, listado de agencias que no tienen archivo: Para : AgenciaSin No se gener? el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_13112013*.pdf,, desde: Envia_Load
+14/11/2013 16:19:49	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_13112013*.pdf, desde: EnviaArchivos
+14/11/2013 16:21:10	No hay archivos pdf para el patr?n:FORD*.pdf, desde: EnviaArchivosXMarca
+14/11/2013 16:22:48	Se han enviado 2 Exitosamente, desde: Envia_Load
+14/11/2013 16:22:49	El aplicactivo se cierra al enviar archivos, desde: Envia_Load
+ 
+15/11/2013 10:58:22	Inicio de operaciones, desde: Envia_Load
+15/11/2013 10:58:22	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_14112013*.pdf, desde: ValidaLaYaExistencia
+15/11/2013 10:58:22	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SAT No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_14112013*.pdf, desde: ValidaLaYaExistencia
+15/11/2013 10:58:22	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\AZC No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_14112013*.pdf, desde: ValidaLaYaExistencia
+15/11/2013 10:58:22	Intento de envio, listado de agencias que no tienen archivo: Para : AgenciaSin No se gener? el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_14112013*.pdf,Para : GMCSatelite No se gener? el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_14112013*.pdf,Para : CHEVROLET No se gener? el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_14112013*.pdf,, desde: Envia_Load
+15/11/2013 10:59:04	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_14112013*.pdf, desde: EnviaArchivos
+15/11/2013 10:59:04	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\SAT No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_14112013*.pdf, desde: EnviaArchivos
+15/11/2013 10:59:04	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreo\bin\Debug\GMC\AZC No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_14112013*.pdf, desde: EnviaArchivos
+ 
+16/12/2013 17:25:43	Inicio de operaciones, desde: Envia_Load
+16/12/2013 17:26:18	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreoSeparacion\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_15122013*.pdf, desde: EnviaArchivos
+16/12/2013 17:26:25	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreoSeparacion\CachaYEnviaCorreo\bin\Debug\GMC\SAT No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_15122013*.pdf, desde: EnviaArchivos
+16/12/2013 17:26:40	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreoSeparacion\CachaYEnviaCorreo\bin\Debug\GMC\AZC No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_15122013*.pdf, desde: EnviaArchivos
+ 
+16/12/2013 17:32:34	Inicio de operaciones, desde: Envia_Load
+16/12/2013 17:32:49	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreoSeparacion\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_15122013*.pdf, desde: EnviaArchivos
+16/12/2013 17:32:49	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreoSeparacion\CachaYEnviaCorreo\bin\Debug\GMC\SAT No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_15122013*.pdf, desde: EnviaArchivos
+16/12/2013 17:32:49	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreoSeparacion\CachaYEnviaCorreo\bin\Debug\GMC\AZC No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_15122013*.pdf, desde: EnviaArchivos
+16/12/2013 17:35:32	No se encontr? el archivo: *AgenciaSin*.pdf en la carpeta a zippear: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreoSeparacion\CachaYEnviaCorreo\bin\Debug\XZipear, desde: ValidaLaYaExistencia
+16/12/2013 17:37:09	Listado de agencias que no tienen archivo: Para : AgenciaSin No se gener? el archivo: *AgenciaSin*.pdf,, desde: Envia_Load
+ 
+28/03/2014 13:46:53	Inicio de operaciones, desde: Envia_Load
+28/03/2014 13:49:05	La carpeta: C:\AndradeGPO\bi_MYSQL\Bi_automatizacion\CachaYEnvia\CachaYEnviaCorreoSeparacion\CachaYEnviaCorreo\bin\Debug\GMC\SIN No contiene el archivo: CierreDia_Conciliacion_Modulos vs contabilidad_27032014*.pdf, desde: EnviaArchivos

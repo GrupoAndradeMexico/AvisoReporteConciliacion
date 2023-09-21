@@ -1,0 +1,7 @@
+Siendo las [hora] horas del día [fecha], se ha encontrado VACIA, la carpeta: [iplocal]  [carpeta].
+
+Comunmente se han transferido de esta carpeta archivos de las siguientes agencias:
+
+[agencias]
+
+Favor de verificar a la brevedad.

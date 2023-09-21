@@ -1,0 +1,41 @@
+Este aplicativo se ejecuta bajo una tarea programada.
+
+Su principal funcion es recorrer diariamente las carpetas
+configuradas en busca de los archivos pdf que son el:
+
+Reporte Cierre diario de Conciliacion de Modulos vs. Contabilidad (uno diario) (uno por marca o agencia)
+
+Tres casos, Para la fecha en que se corre:
+
+*No encuentra ningun archivo de reporte:
+             Envia un correo avisando de esta situacion solo a los destinatarios configurados para este caso.
+
+*Solo encuentra archivos de reporte para algunas agencias
+	     Envia un correo a destinatarios finales con un zip adjunto, el cual contiene los reportes que si encontró.
+	     Envia a las cuentas de sistemas  un correo avisando aquellos reportes que no encontró.
+		 
+
+*Encuentra archivos de reporte para todas las agencias.
+	    Envia un correo a destinatarios finales con un zip adjunto, el cual contiene los reportes encontrados.
+
+		Para cada marca, le envia a los correos definidos sus reportes. 
+		* Importante que el nombre de la marca, se corresponda en parte con el nombre del archivo pdf.
+		
+		<add key="MarcasCSV" value="CHEVROLET AZCAPOTZALCO,CHRYSLER,FORD VIGA,FORD ZARAGOZA,FORD BODY,GMC ESMERALDA,GMC SATELITE,NISSAN ABASTO,NISSAN AEROPUERTO,NISSAN CUAUHTEMOC,NISSAN FUERZA AEREA,NISSAN ZARAGOZA"/>
+		<add key="emailsXMarca" value="CHEVROLET:hipolito.resendiz@grupoandrade.com.mx,alejandro.vazquez@grupoandrade.com.mx,luis.bonnet@grupoandrade.com.mx;CHRYSLER:ignacio.gonzalez@grupoandrade.com.mx,guadalupe.hernandez@grupoandrade.com.mx,luis.bonnet@grupoandrade.com.mx;FORD:renejavier.torres@grupoandrade.com.mx,alejandro.becerra@grupoandrade.com.mx,luis.bonnet@grupoandrade.com.mx;GMC:arnulfo.ramirez@grupoandrade.com.mx,jose.mondragon@grupoandrade.com.mx,luis.bonnet@grupoandrade.com.mx;NISSAN:juanarturo.lopez@grupoandrade.com.mx,ehinar.rojo@grupoandrade.com.mx,luis.bonnet@grupoandrade.com.mx" />
+
+
+CONTROL DE CAMBIOS:
+20131216
+
+Es necesario que se ejecute en dos servidores distintos (A y B), y que solo envié un correo electrónico conteniendo los archivos de todas las agencias.
+Por tanto el proceso que se ejecuta al final en el tiempo (en el servidor B), se encargará de recolectar los archivos del servidor A, y  enviar el archivo final.
+
+[Por desarrollar] 
+20150706 
+Los reportes (archivos PDF), son generados via la ejecución de un batch. En ocasiones el reporte no se genera, por problemas de concurrencia de BPro.
+El reporte se genera con la fecha y los datos del día en que se ejecuta, es por ese hecho, de que el reporte se debe generar antes de las 12:00 p.m. 
+(antes del cambio de día). En el momento en que se presenta el error, ya no se genera y por tanto no se envia.
+
+Hay que identificar que el reporte no se generó, mandarlo generar (los datos deben ser del día del cierre diario) y esperar la creación x parte de BPro, del archivo pdf finalmente,
+reenviar a los usuarios correspondientes.
